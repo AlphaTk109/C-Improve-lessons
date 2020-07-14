@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03字符反转_指针.cpp">
+    <ClCompile Include="03字符串反转_指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03字符反转_递归逆序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
