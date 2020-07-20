@@ -2,7 +2,7 @@
 using namespace std;
 #pragma warning (disable:4996)
 
-int main01()
+int main001()
 {
 	int i = 0;
 	char** p2 = NULL;
@@ -15,12 +15,12 @@ int main01()
 		sprintf(p2[i], "%d%d%d", i + 1, i + 1, i + 1);
 	}
 	cout << "before:" << endl;
-	//ÅÅÐòÇ°´òÓ¡
+	//æŽ’åºå‰æ‰“å°
 	for (i = 0;i < num;i++)
 	{
 		cout << p2[i] << endl;
 	}
-	//ÅÅÐò
+	//æŽ’åº
 	for (i = 0;i < num;i++) 
 	{
 		for (int j = i + 1;j < num;j++) 
@@ -35,14 +35,14 @@ int main01()
 	}
 
 	cout << "after:" << endl;
-	//ÅÅÐòºó´òÓ¡
+	//æŽ’åºåŽæ‰“å°
 	for (i = 0;i < num;i++)
 	{
 		cout << p2[i]<<endl;
 	}
 
 
-	//ÊÍ·ÅÄÚ´æ
+	//é‡Šæ”¾å†…å­˜
 	for(i=0;i<num;i++)
 	{
 		if (p2[i] != NULL)
@@ -57,8 +57,8 @@ int main01()
 	}
 	return 0;
 }
-int main()
+int main0001()
 {
-	main01();
+	main001();
 	return 1;
 }

@@ -138,7 +138,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="两个赋值指针变量挖字符串训练-3.cpp" />
     <ClCompile Include="二级指针输入模型-1.cpp" />
+    <ClCompile Include="二级指针输入模型-2.cpp" />
+    <ClCompile Include="优化代码-两个指针变量挖字符串-4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
