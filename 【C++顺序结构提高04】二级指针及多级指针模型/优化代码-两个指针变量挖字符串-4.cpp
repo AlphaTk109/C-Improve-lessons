@@ -56,7 +56,7 @@ char** spit(char* buf1, char c, int count)
 	return myp;
 }
 
-int main()
+int main41()
 {
 	int ret = 0, i = 0, count=0;
 	char p1[] = "abcde,acccce,ddddd,eeefe,32rerere,";

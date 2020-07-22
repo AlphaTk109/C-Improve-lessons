@@ -15,19 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二级指针输入模型-1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二级指针输入模型-2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="两个赋值指针变量挖字符串训练-3.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="优化代码-两个指针变量挖字符串-4.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二级指针的三种内存模型.cpp">
+    <ClCompile Include="结构体01-basic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
