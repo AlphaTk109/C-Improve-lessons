@@ -7,7 +7,7 @@ struct student
 	char name[10];
 	int age;		
 }s1,s2;
-//2)匿名类型 定义变量
+//2)匿名类型 定义变量.
 struct
 {
 	char name[20];
